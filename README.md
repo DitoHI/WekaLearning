@@ -22,7 +22,7 @@ implementation
 License
 --------
 
-    Copyright <YEAR> <COPYRIGHT HOLDER>
+    Copyright 2019 CropsLab, inc.
     
     Permission is hereby granted, free of charge, to any person obtaining a copy of 
     this software and associated documentation files (the "Software"), to deal in 
