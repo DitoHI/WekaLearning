@@ -16,7 +16,7 @@ allprojects {
 ```
 Then add the dependency
 ```groovy
-implementation 
+implementation 'com.github.DitoHI.weka-learning:app:0.1.0'
 ```
 
 License
