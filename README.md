@@ -1,4 +1,4 @@
-### Predicting and Classifying your Images with Weka
+### Predicting Continuous Data and Classifying Images with Weka
 
 This library is trying to help you to do some basic machine learning to your data training and data testing with the help of Weka Library
 
